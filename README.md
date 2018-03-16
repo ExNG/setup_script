@@ -6,3 +6,7 @@
 
   - install
   - packages
+
+- Shell
+
+  - bashrc
