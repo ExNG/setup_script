@@ -1,8 +1,19 @@
-# My Setup Scripts
+# Setup Scripts
 
-## Included
+## Atom
 
-- Atom
+Install:
 
-  - install
-  - packages
+```bash
+wget https://atom.io/download/deb -o /tmp/atom.deb && apt-get install /tmp/atom.deb
+rm -r /tmp/atom.deb
+```
+
+Packages:
+
+```bash
+apm install markdown-preview-plus \
+            tidy-markdown \
+            todo \
+            language-vue
+```
