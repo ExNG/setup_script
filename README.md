@@ -15,7 +15,8 @@ Packages:
 apm install markdown-preview-plus \
             atom-beautify \
             todo \
-            language-vue
+            language-vue \
+            autoclose-html \
 ```
 
 ## Bash
