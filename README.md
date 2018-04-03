@@ -19,6 +19,7 @@ apm install markdown-preview-plus \
             autoclose-html \
             filesize \
             git-blame \
+            pretty-json
 ```
 
 ## Bash
