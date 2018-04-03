@@ -18,6 +18,7 @@ apm install markdown-preview-plus \
             language-vue \
             autoclose-html \
             filesize \
+            git-blame \
 ```
 
 ## Bash
