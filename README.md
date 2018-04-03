@@ -17,6 +17,7 @@ apm install markdown-preview-plus \
             todo \
             language-vue \
             autoclose-html \
+            filesize \
 ```
 
 ## Bash
