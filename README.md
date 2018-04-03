@@ -13,7 +13,7 @@ Packages:
 
 ```bash
 apm install markdown-preview-plus \
-            tidy-markdown \
+            atom-beautify \
             todo \
             language-vue
 ```
