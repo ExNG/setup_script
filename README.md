@@ -20,7 +20,8 @@ apm install markdown-preview-plus \
             filesize \
             git-blame \
             pretty-json \
-            highlight-selected
+            highlight-selected \
+            autocomplete-python
 ```
 
 ## Bash
