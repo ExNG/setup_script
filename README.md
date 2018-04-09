@@ -12,7 +12,7 @@ rm -r /tmp/atom.deb
 Packages:
 
 ```bash
-apm install markdown-preview-plus \
+$ apm install markdown-preview-plus \
             atom-beautify \
             todo \
             language-vue \
@@ -52,3 +52,18 @@ alias qdev="node_modules/quasar-cli/bin/quasar dev -m electron -t mat"
 alias gitrest="git reset HEAD~"
 alias a="atom . -n"
 ```
+
+## Node.js
+
+Install:
+
+```bash
+$ cd ~
+$ curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh
+$ sudo nodesource_setup.sh
+$ sudo apt-get install nodejs
+```
+
+Or short
+
+`$ cd ~ && curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh && sudo nodesource_setup.sh && sudo apt-get install nodejs`
