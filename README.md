@@ -21,8 +21,18 @@ apm install markdown-preview-plus \
             git-blame \
             pretty-json \
             highlight-selected \
-            autocomplete-python
+            pretty-json
 ```
+
+### Additional Steps
+
+1.  [Editor] Scroll past bottom
+    -   Settings => Editor
+    -   Check `Scroll Past End`
+2.  [Enable Beautify] Beautify markdown on save
+    -   Settings => Packages => Search for `atom-beautify`
+    -   Select remark as style guide
+    -   Markdown => Save on Save
 
 ## Bash
 
