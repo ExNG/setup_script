@@ -21,7 +21,8 @@ $ apm install markdown-preview-plus \
             git-blame \
             pretty-json \
             highlight-selected \
-            pretty-json
+            pretty-json \
+            python-indent
 ```
 
 ### Additional Steps
