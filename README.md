@@ -29,7 +29,8 @@ $ apm install markdown-preview-plus \
             pretty-json \
             highlight-selected \
             pretty-json \
-            python-indent
+            python-indent \
+            git-time-machine
 ```
 
 ### Additional Steps
