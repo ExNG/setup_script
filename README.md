@@ -69,10 +69,11 @@ Install:
 ```bash
 $ cd ~
 $ curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh
-$ sudo nodesource_setup.sh
+$ chmod +x nodesource_setup.sh
+$ sudo ./nodesource_setup.sh
 $ sudo apt-get install nodejs
 ```
 
 Or short
 
-`$ cd ~ && curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh && sudo nodesource_setup.sh && sudo apt-get install nodejs`
+`$ cd ~ && curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh && chmod +x nodesource_setup.sh && sudo ./nodesource_setup.sh && sudo apt-get install nodejs`
