@@ -50,7 +50,7 @@ $ apm install markdown-preview-plus \
 ```bash
 # Aliases
 
-aloas ..="cd .."
+alias ..="cd .."
 alias gitstash="git stash"
 alias gitlist="git stash list"
 alias gitapply="git stash apply && git stash drop"
