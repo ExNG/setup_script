@@ -49,7 +49,15 @@ $ apm install markdown-preview-plus \
 
 ## Bash
 
-.bashrc:
+Create bash aliases file like so:
+
+```bash
+$ touch ~/.bash_aliases
+```
+
+Just to keep the .bashrc free
+
+Aliases:
 
 ```bash
 # Aliases
