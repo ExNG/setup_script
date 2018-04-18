@@ -46,6 +46,15 @@ $ apm install markdown-preview-plus \
     -   Settings => Packages => Search for `atom-beautify`
     -   Select remark as style guide
     -   Markdown => Save on Save
+    
+### Atom IDE (Nuclide)
+
+Still in development but is usefull... sometimes
+
+```bash
+$ apm install atom-ide-ui \
+            ide-python
+```
 
 ## Bash
 
