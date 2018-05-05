@@ -82,6 +82,7 @@ alias gikt="gitk"
 alias qdev="node_modules/quasar-cli/bin/quasar dev -m electron -t mat"
 alias gitrest="git reset HEAD~"
 alias a="atom . -n"
+alias cc="clear"
 ```
 
 ## Node.js
