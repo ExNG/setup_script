@@ -34,7 +34,8 @@ $ apm install markdown-preview-plus \
             highlight-selected \
             pretty-json \
             python-indent \
-            git-time-machine
+            git-time-machine \
+            sort-lines
 ```
 
 ### Additional Steps
