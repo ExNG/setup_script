@@ -1,5 +1,13 @@
 # Setup Scripts
 
+## Google Chrome
+
+Install:
+
+```bash
+$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O /tmp/chrome.deb && sudo apt-get install /tmp/chrome.deb && rm /tmp/chrome.deb
+```
+
 ## Atom
 
 Install:
