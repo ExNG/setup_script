@@ -7,7 +7,7 @@ Install:
 -   Ubuntu:
     -   `$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O /tmp/chrome.deb && sudo apt-get install /tmp/chrome.deb && rm /tmp/chrome.deb`
 -   Fedora:
-    -   `$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm -O /tmp/chrome.rpm && sudo rpm install /tmp/chrome.deb && rm /tmp/chrome.rpm`
+    -   `$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm -O /tmp/chrome.rpm && sudo dnf install /tmp/chrome.rpm && rm /tmp/chrome.rpm`
 
 ## Atom
 
