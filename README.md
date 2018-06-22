@@ -66,6 +66,7 @@ Aliases:
 ```bash
 # Aliases
 
+alias ll="ls -lsah"
 alias ..="cd .."
 alias gitstash="git stash"
 alias gitlist="git stash list"
