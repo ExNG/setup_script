@@ -79,6 +79,7 @@ alias qdev="node_modules/quasar-cli/bin/quasar dev -m electron -t mat"
 alias gitrest="git reset HEAD~"
 alias a="atom"
 alias cc="clear"
+alias cs="sudo swapoff -a && sudo swapon -a"
 ```
 
 ## Node.js
