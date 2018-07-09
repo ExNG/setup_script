@@ -80,6 +80,7 @@ alias gitrest="git reset HEAD~"
 alias a="atom"
 alias cc="clear"
 alias cs="sudo swapoff -a && sudo swapon -a"
+alias trans="google-chrome https://translate.google.com/#de/en/"
 ```
 
 ## Node.js
