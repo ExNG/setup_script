@@ -52,7 +52,8 @@ Still in development but is usefull... sometimes
 
 ```bash
 $ apm install atom-ide-ui \
-            ide-python
+            ide-python \
+            ide-php
 ```
 
 ## Bash
