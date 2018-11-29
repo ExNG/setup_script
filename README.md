@@ -33,7 +33,8 @@ $ apm install markdown-preview-plus \
             pretty-json \
             python-indent \
             git-time-machine \
-            sort-lines
+            sort-lines \
+            language-docker
 ```
 
 ### Additional Steps
